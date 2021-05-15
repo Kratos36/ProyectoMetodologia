@@ -5,7 +5,7 @@
       <div class="container">
          <div class="row">
                <div class="col-md-12">
-                  <h1>Noti <b>API</b></h1>
+                  <h1>Noti<b>API</b></h1>
                   <h2>Ramo Metodología y Desarrollo de Software</h2>
                  
                </div>
@@ -20,7 +20,7 @@
                 <div class="col-md-12 text-center">
                    <h1 class="mb-4"><b>¿En qué consiste?</b></h1>
 
-					   <p class="intro">Sistema de autorización de solicitudes <b> integrable al software que produce Patagonia Software</b>. El sistema contará con un API integrada tanto para pruebas, como para enviar solicitudes autorizadas al servidor. Al mismo tiempo tendrá notificaciones en el cliente con las notificaciones pendientes por aprobar. </p>
+					   <p class="intro">Sistema de autorización de solicitudes <b> integrable al software que produce Patagonia Software</b>. El sistema contará con un API integrada tanto para pruebas, como para enviar solicitudes autorizadas al servidor. Al mismo tiempo tendrá notificaciones en el cliente con las solicutudes pendientes por aprobar. </p>
                 </div>
             </div>
         </div>
@@ -216,10 +216,5 @@
         </div>
     </div>
 </section>
-
-   
-   
-   <p>OLA Q ASE</p>
-
 @endsection
 

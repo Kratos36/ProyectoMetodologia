@@ -19,18 +19,8 @@
 
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between" id="navbarsExample07">
                     <ul class="navbar-nav flex-grow-1">
-                            <li class="nav-item active">
-                                <a class="nav-link">Home <span class="sr-only">(current)</span></a>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown08" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Compra Ágil</a>
-                                <div class="dropdown-menu" aria-labelledby="dropdown08">
-                                    <a class="dropdown-item">Publicadas</a>
-                                    <a class="dropdown-item disabled">Adjudicadas</a>
-                                </div>
-                            </li>                        
-                        <li class="nav-item">
-                            <a class="nav-link">Bodega</a>
+                        <li class="nav-item active">
+                            <a class="nav-link">Home <span class="sr-only">(current)</span></a>
                         </li>
                     </ul>                
 

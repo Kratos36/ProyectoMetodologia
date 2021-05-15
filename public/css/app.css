@@ -10004,7 +10004,7 @@ h3 {
 }
 
 .cabecera {
-  background: url(img/test.jpg) no-repeat center center fixed;
+  background: url(img/photo-1415025148099-17fe74102b28.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10013,7 +10013,7 @@ h3 {
 
 .cabecera .container {
   text-align: center;
-  padding: 300px 0px 200px 0px;
+  padding: 200px 0px 200px 0px;
 }
 
 .cabecera h1, .cabecera h1 b {
@@ -10176,3 +10176,8 @@ section .section-title {
     border-radius: 50%;
 }
 /* fin seccion team */
+
+/* navbar color */
+.bg-dark {
+  background-color: #19222b !important;
+}
