@@ -3,10 +3,28 @@
 @section('content')
    <section class="cabecera">
       <div class="container">
-         <h1>TEST  </h1>
+         <div class="row">
+               <div class="col-md-12">
+                  <h1>Noti <b>API</b></h1>
+                  <h2>Ramo Metodología y Desarrollo de Software</h2>
+                 
+               </div>
+         </div>
       </div>
 
    </section>
+
+   <section class="container-fluid introduccion">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                   <h1 class="mb-4"><b>¿En qué consiste?</b></h1>
+
+					   <p class="intro">Sistema de autorización de solicitudes <b> integrable al software que produce Patagonia Software</b>. El sistema contará con un API integrada tanto para pruebas, como para enviar solicitudes autorizadas al servidor. Al mismo tiempo tendrá notificaciones en el cliente con las notificaciones pendientes por aprobar. </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
 <!-- Team -->
 <section id="team" class="pb-5">
@@ -21,7 +39,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="{{ asset('/images/rob.jpg') }}" alt="card image"></p>
-                                    <h4 class="card-title">Roberto Jeria</h4>
+                                    <h4 class="card-title">Roberto Fabián Jeria</h4>
                                     <p class="card-text">Estudiante Ingeniería en Computación e Informática de 3er año. Viña del Mar.</p>
                                     <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>

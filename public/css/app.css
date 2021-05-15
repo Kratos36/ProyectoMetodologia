@@ -10013,7 +10013,38 @@ h3 {
 
 .cabecera .container {
   text-align: center;
-  padding: 300px 0px 50px 0px;
+  padding: 300px 0px 200px 0px;
+}
+
+.cabecera h1, .cabecera h1 b {
+  color: #FFF;
+  font-size: 4.6rem;
+  text-transform: capitalize;
+  line-height: 1.4rem;
+}
+
+.cabecera h2 {
+  color: #FFF;
+  font-size: 1.5rem;
+  line-height: 3.5;
+}
+
+.introduccion {
+  background-color: #FAFAFA;
+}
+
+.introduccion .container p {
+ 
+  margin: 0 auto;
+}
+
+.introduccion .container h1 {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.intro {
+  font-size: 1.4em;
 }
 
 /* inicio seccion team */
