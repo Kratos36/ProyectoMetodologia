@@ -19,18 +19,18 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#getting-started">Planificacion del Proyecto</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#usage">Cronograma Inicial</a></li>
+          <ul>
+        <li><a href="#kanban">Modelo Kanban</a></li>
+          </ul>
+     </li>
+    <li><a href="#equipo">Equipo</a></li>
+            <ul>
+        <li><a href="#presentacion">Quienes Somos.</a></li>
+        <li><a href="#installation">Roles y Responsabilidades</a></li>
+      </ul>
   </ol>
 </details>
 
