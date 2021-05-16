@@ -10053,20 +10053,6 @@ h3 {
     background: #eee !important;
 }
 
-.btn-primary:hover,
-.btn-primary:focus {
-    background-color: #108d6f;
-    border-color: #108d6f;
-    box-shadow: none;
-    outline: none;
-}
-
-.btn-primary {
-    color: #fff;
-    background-color: #007b5e;
-    border-color: #007b5e;
-}
-
 section {
     padding: 60px 0;
 }
@@ -10181,3 +10167,10 @@ section .section-title {
 .bg-dark {
   background-color: #19222b !important;
 }
+
+.login .container{
+  text-align: center;
+  padding: 200px 0px 200px 0px;
+  width: 60%;
+}
+

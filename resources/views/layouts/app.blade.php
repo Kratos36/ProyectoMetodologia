@@ -20,7 +20,10 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between" id="navbarsExample07">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item active">
-                            <a class="nav-link">Home <span class="sr-only">(current)</span></a>
+                            <a href="{{ url('/') }}" class="nav-link">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item active">
+                            <a href="{{ url('/Login') }}" class="nav-link">Login <span class="sr-only">(current)</span></a>
                         </li>
                     </ul>                
 
