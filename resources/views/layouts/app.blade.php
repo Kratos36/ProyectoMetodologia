@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="{{ mix('css/app.css') }}" type="text/css">
         <script src="{{ mix('js/app.js') }}"></script>
-        <title>Document</title>
+        <title>NotiAPI</title>
     </head>
     <body> 
     <header>
