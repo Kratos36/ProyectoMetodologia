@@ -48,29 +48,12 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Product Owner</h4>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
+                                    <h3 class="card-title"><b>Product Owner</b></h3>
+                                    <h4 class="card-title mt-4"> Tareas </h4>
+                                    <ul class="justify-content-lg-start">
+                                        <li>Gestión Notificaciones en vista general</li>   
+                                        <li>Crear Layout general del sitio</li> 
+                                         
                                     </ul>
                                 </div>
                             </div>
@@ -96,9 +79,11 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Developer</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                 
+                                    <h3 class="card-title"><b>Developer</b></h3>
+                                    <h4 class="card-title mt-4"> Tareas </h4>
+                                    <ul class="justify-content-lg-start">
+                                        <li>Implementación backend sistema de autorización con registro y logueo de usuarios</li>                                         
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -114,7 +99,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_03.png" alt="card image"></p>
-                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <h4 class="card-title">Anthony Remigio</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
@@ -123,9 +108,12 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                              
+                                    <h3 class="card-title"><b>Developer</b></h3>
+                                    <h4 class="card-title mt-4"> Tareas </h4>
+                                    <ul class="justify-content-lg-start">
+                                        <li>Lógica para envío de correo notificando estado de solicitudes. </li> 
+                                        <li>Crear vista Login.</li>                                        
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -141,7 +129,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_04.jpg" alt="card image"></p>
-                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <h4 class="card-title">Cristobal Oyarce</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
@@ -150,10 +138,14 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                 
-                                </div>
+                                        <h3 class="card-title"><b>Developer</b></h3>
+                                        <h4 class="card-title mt-4"> Tareas </h4>
+                                        <ul class="justify-content-lg-start">
+                                            <li>Crear Layout general del sitio.</li> 
+                                            <li>Crear API de prueba y datos en memoria para utilizar con el servicio .</li>   
+                                            <li>Pruebas para comprobar el diseño responsivo de la página.  </li>                                       
+                                        </ul>
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -168,7 +160,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_05.png" alt="card image"></p>
-                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <h4 class="card-title">Carlos Uribe</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
@@ -176,9 +168,12 @@
                         </div>
                         <div class="backside">
                             <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                            <div class="card-body text-center mt-4">
+                                    <h3 class="card-title"><b>Scrum Master</b></h3>
+                                    <h4 class="card-title mt-4"> Tareas </h4>
+                                    <ul class="justify-content-lg-start">
+                                        <li>Implementación backend sistema de autorización con registro y logueo de usuarios</li>                                         
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -194,7 +189,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_06.jpg" alt="card image"></p>
-                                    <h4 class="card-title">Sunlimetech</h4>
+                                    <h4 class="card-title">Victor Filgueira</h4>
                                     <p class="card-text">This is basic card with image on top, title, description and button.</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
@@ -202,9 +197,13 @@
                         </div>
                         <div class="backside">
                             <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                            <div class="card-body text-center mt-4">
+                                    <h3 class="card-title"><b>Developer</b></h3>
+                                    <h4 class="card-title mt-4"> Tareas </h4>
+                                    <ul class="justify-content-lg-start">
+                                        <li>Diseño de API para dar respuesta al estado de las notificaciones. </li>   
+                                        <li>Generación pruebas en base de datos local para comprobar respuestas del API. </li>                                      
+                                    </ul>
                                 </div>
                             </div>
                         </div>
